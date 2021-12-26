@@ -1,6 +1,6 @@
 # Save files to AWS S3 bucket
 
-Application for retrieving and resizing buffer images and saving to AWS S3 bucket built with Sequelize, Express.js and Node.js.
+Application for retrieving and resizing buffer images and saving to AWS S3 bucket built with Express.js and Node.js.
 
 ---
 
